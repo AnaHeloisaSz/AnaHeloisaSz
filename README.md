@@ -1,41 +1,48 @@
 
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ana%20Heloisa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20de%20Dados&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:8b5cf6&height=230&section=header&text=Ana%20Heloisa&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%3C%2F%3E%20Estudante%20de%20Ci%C3%AAncia%20de%20Dados%20%3C%2F%3E&descAlignY=58&descSize=20" width="100%" alt="Banner"/>
+
 
 <a href="https://github.com/AnaHeloisaSz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!;Estudante+de+Ci%C3%AAncia+de+Dados;Apaixonada+por+dados+e+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%3E+import+pandas+as+pd;%3E+SELECT+%2A+FROM+talentos+WHERE+nome+%3D+%27Ana%27%3B;%3E+transformando+dados+em+decis%C3%B5es...;%3E+estudante+de+Ci%C3%AAncia+de+Dados+%F0%9F%9A%80;%3E+sempre+aprendendo+algo+novo_" alt="Terminal animado" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ana-heloisa-dos-santos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<img src="https://komarev.com/ghpvc/?username=AnaHeloisaSz&label=Visitas&color=0ea5e9&style=for-the-badge" alt="Visitas"/>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=3" width="80%" alt="divisor"/>
 
 </div>
 
+## Sobre mim
+
+```python
+class AnaHeloisa:
+    def __init__(self):
+        self.curso = "Ciência de Dados"
+        self.faculdade = "Universidade Pitágoras Unopar Anhanguera"
+        self.estudando = ["Python", "SQL", "Modelagem de Dados"]
+        self.objetivo = "Analista / Cientista de Dados"
+        self.frase = "Um pequeno progresso todos os dias."
+
+    def contato(self):
+        return "Vamos conversar sobre dados! "
+```
+
 ---
 
-##  Sobre mim
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
-
--  Cursando **Ciência de Dados** na **Universidade Pitágoras Unopar Anhanguera**
-- Atualmente estudando **modelagem de dados, SQL e Python**
--  Construindo projetos para praticar e montar meu portfólio
--  Pergunte-me sobre: dados, bancos de dados e carreira em tecnologia
--  Objetivo: atuar como **Analista / Cientista de Dados**
-
-<br/>
-
----
-
-## Tecnologias
+##  Tecnologias
 
 <div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,vscode&perline=8" alt="Tecnologias" />
 
@@ -46,8 +53,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </div>
 
@@ -67,22 +72,33 @@
 <br/>
 
 
+<br/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnaHeloisaSz&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Troféus" />
 
 </div>
+
+<!-- COBRINHA ANIMADA (opcional): só descomente DEPOIS de rodar o workflow snake.yml
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/output/github-snake-dark.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/output/github-snake.svg" />
+  </picture>
+</div>
+-->
 
 ---
 
 ##  Hobbies & Metas
 
--  Estudar dados, estatística e programação todos os dias um pouco
+-  Estudar dados, estatística e programação um pouco todos os dias
 -  Criar projetos de análise de dados e publicar aqui
--  Contribuir com a comunidade e aprender com quem está na área
+-  Aprender com a comunidade e contribuir sempre que possível
 
 > _"Um pequeno progresso todos os dias soma grandes resultados."_
 
 ---
-
-
 
 <div align="center">
 
@@ -91,6 +107,6 @@
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Rodapé"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:8b5cf6&height=110&section=footer&animation=twinkling" width="100%" alt="Rodapé"/>
 
 </div>
