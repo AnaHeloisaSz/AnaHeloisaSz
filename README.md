@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<img src="https://komarev.com/ghpvc/?username=AnaHeloisaSz&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas"/>
+
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-### 📫 Vamos conversar?
+###  Vamos conversar?
 
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
