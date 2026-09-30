@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-```python
+
 class AnaHeloisa:
     def __init__(self):
         self.curso = "Ciência de Dados"
@@ -79,14 +79,14 @@ class AnaHeloisa:
 
 </div>
 
-<!-- COBRINHA ANIMADA (opcional): só descomente DEPOIS de rodar o workflow snake.yml
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/output/github-snake-dark.svg" />
     <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/output/github-snake.svg" />
   </picture>
 </div>
--->
+
 
 ---
 
