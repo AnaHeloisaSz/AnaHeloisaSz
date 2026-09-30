@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaHeloisaSz&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições" width="95%" />
+
 
 </div>
 
