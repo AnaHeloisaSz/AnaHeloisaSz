@@ -1,41 +1,53 @@
 
-
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:8b5cf6&height=230&section=header&text=Ana%20Heloisa&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%3C%2F%3E%20Estudante%20de%20Ci%C3%AAncia%20de%20Dados%20%3C%2F%3E&descAlignY=58&descSize=20" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/main/banner.svg" width="100%" alt="Ana Heloisa - Estudante de Ciência de Dados"/>
 
 
 <a href="https://github.com/AnaHeloisaSz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%3E+import+pandas+as+pd;%3E+SELECT+%2A+FROM+talentos+WHERE+nome+%3D+%27Ana%27%3B;%3E+transformando+dados+em+decis%C3%B5es...;%3E+estudante+de+Ci%C3%AAncia+de+Dados+%F0%9F%9A%80;%3E+sempre+aprendendo+algo+novo_" alt="Terminal animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%3E+import+pandas+as+pd;%3E+SELECT+%2A+FROM+talentos+WHERE+nome+%3D+%27Ana%27%3B;%3E+transformando+dados+em+decis%C3%B5es...;%3E+sempre+aprendendo+algo+novo_" alt="Terminal animado" />
 </a>
 
 <br/>
+
 
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <img src="https://komarev.com/ghpvc/?username=AnaHeloisaSz&label=Visitas&color=0ea5e9&style=for-the-badge" alt="Visitas"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=3" width="80%" alt="divisor"/>
-
 </div>
 
-## Sobre mim
+---
 
-```python
-class AnaHeloisa:
-    def __init__(self):
-        self.curso = "Ciência de Dados"
-        self.faculdade = "Universidade Pitágoras Unopar Anhanguera"
-        self.estudando = ["Python", "SQL", "Modelagem de Dados"]
-        self.objetivo = "Analista / Cientista de Dados"
-        self.frase = "Um pequeno progresso todos os dias."
+##  Sobre mim
 
-    def contato(self):
-        return "Vamos conversar sobre dados! "
-```
+<table>
+<tr>
+<td width="68%">
+
+### Oie, eu sou a **Ana Heloisa** 👋
+
+Estudante de **Ciência de Dados** apaixonada por transformar dados em informação útil. Aqui no GitHub eu guardo meus estudos e projetos.
+
+-  Cursando **Ciência de Dados** na **Universidade Pitágoras Unopar Anhanguera**
+-  Estudando **Python, SQL e Modelagem de Dados**
+-  Construindo projetos para montar meu portfólio
+-  Pergunte-me sobre: dados, bancos de dados e carreira em tecnologia
+-  Objetivo: atuar como **Analista / Cientista de Dados**
+
+</td>
+<td width="32%" align="center">
+
+<b> Foco atual</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,mysql&perline=2" alt="Python e MySQL" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Estudando-22d3ee?style=for-the-badge" alt="Status"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,26 +70,7 @@ class AnaHeloisa:
 
 ---
 
-##  Estatísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnaHeloisaSz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaHeloisaSz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaHeloisaSz&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/>
-
-
-<br/>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnaHeloisaSz&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Troféus" />
-
-</div>
 
 <!-- COBRINHA ANIMADA (opcional): só descomente DEPOIS de rodar o workflow snake.yml
 <div align="center">
@@ -105,8 +98,6 @@ class AnaHeloisa:
 ###  Vamos conversar?
 
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:8b5cf6&height=110&section=footer&animation=twinkling" width="100%" alt="Rodapé"/>
+<a href="mailto:anaheloisa.d.santos@icloud.com.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
 </div>
