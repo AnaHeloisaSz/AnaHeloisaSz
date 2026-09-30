@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/ana-heloisa-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anaheloisa.d.santos@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<img src="https://komarev.com/ghpvc/?username=AnaHeloisaSz&label=Visitas&color=0ea5e9&style=for-the-badge" alt="Visitas"/>
+
 
 </div>
 
@@ -26,7 +26,7 @@
 <tr>
 <td width="68%">
 
-### Oie, eu sou a **Ana Heloisa** 👋
+### Oie, eu sou a **Ana Heloisa** 
 
 Estudante de **Ciência de Dados** apaixonada por transformar dados em informação útil. Aqui no GitHub eu guardo meus estudos e projetos.
 
@@ -72,7 +72,6 @@ Estudante de **Ciência de Dados** apaixonada por transformar dados em informaç
 
 
 
-<!-- COBRINHA ANIMADA (opcional): só descomente DEPOIS de rodar o workflow snake.yml
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaHeloisaSz/AnaHeloisaSz/output/github-snake-dark.svg" />
